@@ -1,0 +1,1 @@
+import{p as e,b as t}from"./p-a98edb00.js";export{s as setNonce}from"./p-a98edb00.js";(()=>{const s=import.meta.url,t={};return""!==s&&(t.resourcesUrl=new URL(".",s).href),e(t)})().then((e=>t([["p-1ca71682",[[1,"my-component",{first:[1],middle:[1],last:[1]}]]]],e)));
