@@ -11,7 +11,7 @@
   ],
   "web_accessible_resources": [
     {
-      "resources": ["hello-world/*", "sqrx-dialog/*"],
+      "resources": ["hello-world/dist/hello-world/*"],
       "matches": ["https://*/*", "http://*/*"]
     }
   ]
